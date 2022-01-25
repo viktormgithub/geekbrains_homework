@@ -1,1 +1,5 @@
-# geekbrains_homework
+### GeekBrains Домашняя работа
+---
+- Факультет: C#
+- Год: 2022
+- Студент: Виктор Митяев gb@viktorm.ru
